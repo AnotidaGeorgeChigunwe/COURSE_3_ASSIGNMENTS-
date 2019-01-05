@@ -1,9 +1,9 @@
 
 /**
- * Write a description of TestCaesarCipherTwo here.
+ * TestCaesarCipherTwo.
  * 
- * @author (your name) 
- * @version (a version number or a date)
+ * @author (ANOTIDA GEOR CHIGUNWE) 
+ * @version (04/01/2019)
  */
  import edu.duke.*;
  import java.io.*;
